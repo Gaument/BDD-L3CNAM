@@ -1,0 +1,147 @@
+#title{
+	text-align: center;
+	background-color : #d1e0e0; 
+	width: 200px;
+	height: 50px;
+	margin: 0 auto;
+	border-radius: 25%;
+	left: 350px;
+}
+
+.error{
+    width:100%;
+    text-align:center;
+    color:red;
+    font-size:18px;
+}
+
+#post_labo{
+	text-align: center;
+	background-color : #d1e1e0; 
+	width: 250px;
+	height: 350px;
+	margin: 0 auto;
+	border-radius: 5%;
+	left: 350px;
+}
+.space{
+    height:10px;
+}
+#list_labo{
+	width: auto;
+	margin: auto;
+	border-radius: 5%;
+	left: 350px;
+    height: auto;
+}
+.labo{
+	text-align: center;
+	background-color : #00b3b3; 
+	width: 210px;
+	margin: auto;
+	left: 350px;
+    border-radius:4px;
+}
+
+#title{
+    text-align: center;
+    background-color : #d1e0e0;
+    width: 200px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 25%;
+    left: 350px;
+}
+
+#post{
+    text-align: center;
+    background-color : #d1e1e0;
+    width: 250px;
+    height: 350px;
+    margin: 0 auto;
+    border-radius: 5%;
+    left: 350px;
+}
+
+#hor_full{
+    text-align: center;
+    width: 16%;
+    height: 90%;
+    margin: 0 auto;
+    border-radius: 5%;
+    left: 350px;
+}
+
+#hor_list{
+    text-align: center;
+    background-color : #D1E1E0;
+    width: 90%;
+    height: 85%;
+    margin: 0 auto;
+    border-radius: 5%;
+    left: 350px;
+}
+
+#hor_new{
+    text-align: center;
+    background-color : #8FCF3C;
+    width: 90%;
+    height: 15%;
+    margin: 0 auto;
+    border-radius: 5%;
+    left: 350px;
+}
+
+#list{
+    text-align: center;
+    background-color : #d1e1e0;
+    width: 250px;
+    margin: 0 auto;
+    border-radius: 5%;
+    left: 350px;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+#leftThing {
+    width: 25%;
+    background-color: blue;
+}
+#chu {
+    width: 50%;
+    background-color: green;
+}
+#rightThing {
+    width: 25%;
+    background-color: yellow;
+}
+
+.chu{
+    text-align: center;
+    background-color : #00b3b3;
+    width: 210px;
+    margin: 0 auto;
+    left: 350px;
+}
+
+.footer{
+    font-size: 12px;
+    font-family: Verdana, Geneva, sans-serif;
+    color: #333;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.body{
+    height:100%;
+    width:100%;
+}
+
+.table{
+    border:1px;
+}
